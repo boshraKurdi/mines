@@ -1,1 +1,1 @@
-# mines
+# My Lovable Project
